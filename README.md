@@ -35,4 +35,7 @@ DocumentQA is an application that allows users to get an answer on a specific qu
   streamlit run documentQA.py
   
   ```
+
+## Sample input and Output
+
 - Input the Query in the application and click submit to view the response
