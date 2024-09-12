@@ -11,8 +11,19 @@
 
 ## Implementation
 - Install all the requirements in requirement.txt.
-  '''sh
+  ```sh
   pip install -r requirements.txt
-  '''
-- 
+  
+  ```
+- Create a OPENAI API User secret key in platform.openai.com
+- Create a Pinecone index in pinecone.io
+    - Cloud provider: AWS
+- Create a '.env' file and include the following keys
+    - OPENAI_KEY
+    - PINECONE_KEY
+    - PINECONE_INDEX
+- Run all the cells in vectorDB.ipynb.
+    - Reads the data from documents using PYPDF.
+    - splits the data into chunks(Customize your chunk size).
+    - Generates the embeddings using embedding model
 
