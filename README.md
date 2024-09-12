@@ -39,3 +39,6 @@ DocumentQA is an application that allows users to get an answer on a specific qu
 ## Sample input and Output
 
 - Input the Query in the application and click submit to view the response
+
+  
+<img width="788" alt="Screenshot 2024-09-12 at 1 54 41 PM" src="https://github.com/user-attachments/assets/edaad1a7-cc32-45f0-86f6-69a5926387dc">
