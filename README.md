@@ -9,6 +9,7 @@ DocumentQA is an application that allows users to get an answer on a specific qu
 
 ## Architechture
 
+![Screenshot 2024-09-12 at 4 56 56 PM](https://github.com/user-attachments/assets/0232bb81-9a6a-4bda-aa4e-8a8422ef78f2)
 
 ## Implementation
 - Install all the requirements in requirement.txt.
